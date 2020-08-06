@@ -1,0 +1,3 @@
+git add $*
+git commit -m "`data +"%Y-%m-%d"`"
+git push -u origin master
